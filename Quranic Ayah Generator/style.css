@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para{
+    font-size: x-large;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.btn{
+    background-color: aqua;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+    padding: 9px 14px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgba(0, 255, 255, 0.694);
+}
+
+.btn1,.btn2{
+    background-color: yellow;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    padding: 9px 14px;
+    border: 2px black solid;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
